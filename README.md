@@ -1,1 +1,2 @@
 # msp432Templete
+ccs432demoserve文件夹为msp432p401r的例程库，部分参考自TI官方例程库。
